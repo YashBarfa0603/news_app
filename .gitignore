@@ -1,6 +1,5 @@
 # Miscellaneous
 devtools_options.yaml
-devtools_option.yaml
 .env
 *.class
 *.log
